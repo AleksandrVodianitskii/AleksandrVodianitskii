@@ -2,7 +2,7 @@
 
 **Go Developer, 6+ years experience**
 
-[+381 63 803 0554](tel:+381638030554) · GMT+2  
+GMT+2  
 [vodianitskii.aleksandr@gmail.com](mailto:vodianitskii.aleksandr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aleksandr-vodianitskii/)
 
 ## About
