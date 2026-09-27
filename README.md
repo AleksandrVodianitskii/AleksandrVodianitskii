@@ -7,7 +7,7 @@ GMT+2
 
 ## About
 
-Go Developer with 6+ years building high-load distributed systems across AI/ML, FoodTech, and Social Networking.
+Go Backend Developer with 6+ years building high-load distributed systems across AI/ML, FoodTech, and Social Networking.
 
 Built real-time voice AI infrastructure serving 100% of production LLM traffic.
 
@@ -45,7 +45,7 @@ Open to opportunities in Europe. English: fluent.
 
 **Golang Backend Developer** · February 2022 - June 2025
 
-**Responsibilities:** Developed and maintained backend services for a restaurant automation platform. Designed system architecture, mentored junior engineers, wrote engineering guidelines, and conducted code reviews.
+**Responsibilities:** Developed and maintained backend services for a restaurant automation platform. Designed system architecture, mentored junior engineers, wrote engineering guidelines.
 
 **Technologies:** Go, PostgreSQL, Redis, Kafka, ClickHouse, gRPC, WebSockets, Docker, Kubernetes, GitLab CI/CD, Prometheus, Grafana
 
@@ -55,7 +55,7 @@ Open to opportunities in Europe. English: fluent.
 - Built integrations with Uber Eats and Deliveroo to automatically import delivery orders into the restaurant POS system, reducing manual entry and increasing order-processing capacity.
 - Designed a scalable real-time notification system that delivered order updates to restaurant staff and kitchen displays as orders progressed through the restaurant workflow.
 - Developed an ETL pipeline to consolidate sales and staff performance metrics, automating 15+ types of analytical reports and reducing time spent on manual reporting.
-- Established engineering guidelines that standardized API design, error handling, and integration testing across backend services, and mentored junior engineers through code reviews.
+- Established engineering guidelines that standardized API design, error handling, and integration testing across backend services, and mentored junior engineers.
 
 ### [LOVOO](https://www.lovoo.com/en/)
 
