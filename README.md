@@ -9,9 +9,11 @@ GMT+2
 
 Go Backend Developer with 6+ years building high-load distributed systems across AI/ML, FoodTech, and Social Networking.
 
-Built real-time voice AI infrastructure serving 100% of production LLM traffic.
+Developed real-time voice AI infrastructure serving 100% of production LLM traffic.
 
-I was responsible for the full development lifecycle, from gathering product owner requirements to establishing a fully automated release process with high test coverage, detailed analytics, and CI/CD.
+Built full cycle of development: from gathering product owner requirements to
+establishing fully automated release process with high test coverage, detailed analytics
+and CI/CD
 
 Open to opportunities in Europe. English: fluent.
 
