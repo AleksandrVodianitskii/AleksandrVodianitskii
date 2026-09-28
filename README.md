@@ -77,6 +77,10 @@ Open to opportunities in Europe. English: fluent.
 
 ## Education
 
-### HSE University
+### Higher School of Economics
 
-**Bachelor, Software Engineering** · 2018 - 2022
+**Master's Degree, Modern Computer Science** · 2022 - 2024
+
+### Higher School of Economics
+
+**Bachelor of Engineering, Computer Software Engineering** · 2018 - 2022
